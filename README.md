@@ -1,1 +1,1 @@
-# CG-Realisatie
+# CG-Architectuur
