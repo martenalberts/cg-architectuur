@@ -1,0 +1,63 @@
+---
+name: Als ... wil ik ...
+about: Beschrijving van een feature/user story
+
+---
+
+...zodat [vul aan].
+
+**Definition of ready**
+
+- [ ] Iedereen in het team begrijpt de user story
+- [ ] Is klein genoeg 
+- [ ] Product Owner akkoord
+- [ ] Voorzien van acceptatiecriteria (duidelijk en leesbaar)
+- [ ] Voorzien van Definition of Done 
+- [ ] Voorzien van taken (naam, uren, smart)
+- [ ] Idee hebben van hoe deze user story kan worden gedemonstreerd.
+- [ ] Users en stakeholder benoemd
+- [ ] Vastgelegd Github en in geplaatst in kolom ready
+
+**Definition of done**
+
+- [ ] Document gereed en afgestemd op doelgroep
+- [ ] Potentieel publiceerbaar/beschikbaar voor users en stakeholders
+- [ ] Peer review heeft plaatsgevonden
+- [ ] Demo-gereed (kan getoond worden tijdens demo en is demo materiaal is gereed)
+- [ ] Product Owner akkoord
+- [ ] ...
+
+**Users**
+
+- [ ] …
+- [ ] …
+- [ ] …
+- [ ] …
+
+**Stakeholders**
+
+- [ ] …
+- [ ] …
+- [ ] …
+- [ ] …
+
+**Acceptatiecriteria**
+
+- [ ] Duidelijk en leesbaar voor doelgroep (users/stakeholders)
+- [ ] Voldoet aan principes Gegevenslandschap en Common Ground
+- [ ] …
+- [ ] …
+- [ ] …
+- [ ] …
+
+**Globale oplossingsrichting**
+…
+
+**Taken**
+
+- [ ] …
+- [ ] …
+- [ ] …
+- [ ] …
+- [ ] Peer review (team)
+- [ ] Demoversie maken 
