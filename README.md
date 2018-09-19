@@ -15,7 +15,7 @@ WIP
 ## Rollen
 
 - Opdrachtgever: [@TheoVNGPeters](https://github.com/TheoVNGPeters)
-- Product Owner: [@jgortmaker](https://github.com/jgortmaker)
+- Product Owner: [@jgortmaker1](https://github.com/jgortmaker1)
 - Scrum Master:  [@TCIMEddy](https://github.com/TCIMEddy)
 
 ## Resultaten en demo's
