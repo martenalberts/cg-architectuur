@@ -4,8 +4,8 @@ about: Alles wat niet ging moet worden aangepakt, zodat het Team leert hoe zichz
 
 ---
 
-# Impediment
+# Improvement Story
 
-[beschrijf de impediment]
+[beschrijf improvement story
 
 [assign aan teamlid en voeg label 'improvement story' toe]
